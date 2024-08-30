@@ -22,7 +22,7 @@ UI自动化测试：
 （2）后台管理系统测试用例：
 ![image](https://github.com/user-attachments/assets/c86bf63e-bbeb-4c5d-99b3-9cb251b7796d)
 （3）app端测试用例
-![image](https://github.com/user-attachments/assets/8da2e0b1-3afd-4b04-b944-f8bdb83d7eda)
+![image](https://github.com/user-attachments/assets/0c02dfaa-e079-43fe-bdfd-26dc4d69fb5c)
 接口自动化测试用例：
 ![image](https://github.com/user-attachments/assets/13cd2931-7ec1-41d2-84a2-7865ea4cfbe2)
 
